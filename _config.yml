@@ -1,0 +1,28 @@
+name: Ivancastano
+favicon: null
+layout_spectrum: 0.7900343399960548
+typography_spectrum: 0.21796711790375412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9401908279396594
+  lightness: 0.07126398361288011
+  saturation: 0.369538236875087
+  rhythmicContrast: 0.5759339097421616
+purpose: []
